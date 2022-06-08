@@ -1,0 +1,23 @@
+1.display utilities
+
+https://getbootstrap.com/docs/4.0/utilities/display/
+
+2.media query
+
+
+col-6
+
+
+
+1.320px iphone5 or se or less than 5 inch mobile
+2.360px :  galaxy s5 or 5.5 inch
+3.414px : 5.5 or 6 inch
+
+
+1.568px
+2.640px;
+3.<768
+
+
+768 to 1024
+1024 to 1300
